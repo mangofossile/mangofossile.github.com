@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://mangofossile.github.com/atom.xml" rel="self"/>
+  <link href="http://mangofossile.github.com/"/>
+  <updated>2012-09-26T23:04:58-07:00</updated>
+  <id>http://mangofossile.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test1]]></title>
+    <link href="http://mangofossile.github.com/blog/2012/09/26/test1/"/>
+    <updated>2012-09-26T22:27:00-07:00</updated>
+    <id>http://mangofossile.github.com/blog/2012/09/26/test1</id>
+    <content type="html"><![CDATA[<h1>A First level Header</h1>
+
+<h2>A second level header </h2>
+
+<p>A bunch of words here for a paragraph.</p>
+
+<h3>Header 3</h3>
+
+<blockquote><p>blockquote
+blockquote</p></blockquote>
+
+<h2>Header 2</h2>
+]]></content>
+  </entry>
+  
+</feed>
