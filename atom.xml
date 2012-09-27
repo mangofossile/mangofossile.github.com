@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mangofossile.github.com/atom.xml" rel="self"/>
   <link href="http://mangofossile.github.com/"/>
-  <updated>2012-09-26T23:10:31-07:00</updated>
+  <updated>2012-09-26T23:16:04-07:00</updated>
   <id>http://mangofossile.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://mangofossile.github.com/blog/2012/09/26/hello-world/"/>
+    <updated>2012-09-26T23:11:00-07:00</updated>
+    <id>http://mangofossile.github.com/blog/2012/09/26/hello-world</id>
+    <content type="html"><![CDATA[<h2>Quick Introduction</h2>
+
+<p>My name is Ashley Fossile and I just started using static site generator to work with blogs. It took about 4 hours to finally get to this point. I had never really used the terminal to do a lot of heavy things, well heavy to me. I had to install RVM, git, and all that stuff, which I have never installed things in the terminal.</p>
+
+<h3>On a more personal note&#8230;</h3>
+
+<p>I am a student at UNLV. I am pursuing two bachelors of science, computer science and mathematics. The math part is easy for me, the CS, not so much, which should explain my 4 hours to just figure out this site generator thing.</p>
+
+<h4>Anyways&#8230;</h4>
+
+<p>I&#8217;m off to bed now. Hope no one is reading this :P</p>
+]]></content>
+  </entry>
   
 </feed>
